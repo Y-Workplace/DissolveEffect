@@ -641,13 +641,13 @@ https://create.roblox.com/store/asset/126151482111558
 
 ```
 [dependencies]
-DissolveEffect = "YOUR_WALLY_PACKAGE"
+DissolveEffect = "y-workplace/dissolveeffect@1.0.0"
 ```
 
 Wally Package:
 
 ```
-https://wally.run/package/YOUR_WALLY_PACKAGE
+https://wally.run/package/y-workplace/dissolveeffect
 ```
 
 ---

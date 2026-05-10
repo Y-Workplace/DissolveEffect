@@ -1,0 +1,7 @@
+[tools]
+wally = "upliftgames/wally@0.3.2"
+rojo = "rojo-rbx/rojo@7.5.1"
+luau = "luau-lang/luau@0.703.0"
+stylua = "johnnymorganz/stylua@2.0.2"
+selene = "kampfkarren/selene@0.27.1"
+lune = "lune-org/lune@0.8.9"

@@ -1,0 +1,6 @@
+{
+  "name": "dissolveeffect",
+  "tree": {
+    "$path": "src/dissolveeffect.lua"
+  }
+}

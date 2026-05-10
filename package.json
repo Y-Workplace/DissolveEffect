@@ -1,0 +1,31 @@
+{
+	"name": "dissolveeffect",
+	"version": "1.0.0",
+	"description": "High performance dissolve effect for Roblox using EditableImage",
+	"main": "src/dissolveeffect",
+  "repository": {
+		"type": "git",
+		"url": "https://github.com/Y-Workplace/DissolveEffect"
+	},
+  "keywords": [
+		"roblox",
+		"luau",
+		"wally",
+		"editableimage",
+		"effects",
+		"dissolve",
+    "dissolveshader"
+	],
+  "author": "Y-Hythm",
+  "contributors": [],
+  "homepage": "https://github.com/Y-Workplace/DissolveEffect",
+	"license": "MIT",
+	"files": [
+		"src",
+		"README.md",
+		"LICENSE"
+	],
+  "publishConfig": {
+		"access": "public"
+	}
+}
