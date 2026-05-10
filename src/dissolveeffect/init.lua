@@ -73,7 +73,7 @@ if not success then
 	return {} :: Dissolve
 end
 
-local Packages = script.Parent.Parent.Parent
+local Packages = script.Parent
 local Signal = require(Packages.Signal)
 local JobManager = require(script:WaitForChild("JobManager"))
 local RuntimeWorker = require(script:WaitForChild("RuntimeWorker"))
