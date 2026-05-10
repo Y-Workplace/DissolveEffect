@@ -1,7 +1,7 @@
 [package]
 name = "y-workplace/dissolveeffect"
 description = """DissolveEffect is a high-quality, pixel-based dissolve system for Roblox using EditableImage. Instead of simple transparency tweens, it renders dynamic dissolve and materialization effects with glowing edges, noise distortion, and smooth frame-based animation."""
-version = "1.0.0"
+version = "1.0.3"
 license = "MIT"
 authors = ["Y"]
 registry = "https://github.com/UpliftGames/wally-index"
