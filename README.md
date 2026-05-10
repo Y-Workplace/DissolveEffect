@@ -79,16 +79,25 @@ local Dissolve = require(
 
 The glow and edge colors look significantly better when Bloom is enabled.
 
-If the module includes a bundled Bloom effect:
+Add a Bloom instance (BloomEffect) to "Lighting" with the following properties:
+
+```luau
+Intensity = 3
+Size = 100
+Threshold = 3.5
+```
+
+Using the Command Bar:
 
 ```luau
 local Lighting = game:GetService("Lighting")
+local bloom = Instance.new("BloomEffect")
 
-local bloom = dissolveModule:FindFirstChild("Bloom")
+bloom.Intensity = 3
+bloom.Size = 100
+bloom.Threshold = 3.5
 
-if bloom then
-    bloom.Parent = Lighting
-end
+bloom.Parent = Lighting
 ```
 
 ---
@@ -615,21 +624,28 @@ dissolve:Destroy()
 
 Do not leave unused effects alive.
 
+---
+
 # Installation
 ## Roblox Creator Store
-
 Add the module directly from the Creator Store:
+
 ```
 Creator Store Model:
 https://create.roblox.com/store/asset/126151482111558
 ```
 
+---
+
 ## Wally
+
 ```
 [dependencies]
 DissolveEffect = "YOUR_WALLY_PACKAGE"
 ```
+
 Wally Package:
+
 ```
 https://wally.run/package/YOUR_WALLY_PACKAGE
 ```
