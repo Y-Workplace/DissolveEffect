@@ -641,7 +641,7 @@ https://create.roblox.com/store/asset/126151482111558
 
 ```
 [dependencies]
-DissolveEffect = "y-workplace/dissolveeffect@1.0.1"
+DissolveEffect = "y-workplace/dissolveeffect@1.0.2"
 ```
 
 Wally Package:
