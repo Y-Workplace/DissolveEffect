@@ -60,8 +60,7 @@ ReplicatedStorage
         ├── JobManager
         ├── RuntimeWorker
         ├── Actor
-        ├── Mask
-        └── DissolveEffect
+        └── Mask
 ```
 
 Example require:
@@ -615,6 +614,25 @@ dissolve:Destroy()
 ```
 
 Do not leave unused effects alive.
+
+# Installation
+## Roblox Creator Store
+
+Add the module directly from the Creator Store:
+```
+Creator Store Model:
+https://create.roblox.com/store/asset/126151482111558
+```
+
+## Wally
+```
+[dependencies]
+DissolveEffect = "YOUR_WALLY_PACKAGE"
+```
+Wally Package:
+```
+https://wally.run/package/YOUR_WALLY_PACKAGE
+```
 
 ---
 
