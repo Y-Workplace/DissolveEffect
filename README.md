@@ -1,6 +1,9 @@
 # Dissolve Effect
 
-[![Watch the video](https://drive.google.com/file/d/12WNu9I3V0U-dO5MVIcNuQKSFH00-J2rz/view?usp=sharing)](https://www.youtube.com/shorts/MweAkhC7yN0)
+## Watch the video!
+<a href="https://www.youtube.com/shorts/MweAkhC7yN0">
+  <img src="Thumbnaill.png" alt="Watch the video" width="100">
+</a>
 
 High-performance dissolve / disintegration effect system for Roblox using `EditableImage`.
 
